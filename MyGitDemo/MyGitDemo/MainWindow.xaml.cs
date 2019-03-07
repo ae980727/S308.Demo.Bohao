@@ -23,6 +23,8 @@ namespace MyGitDemo
         public MainWindow()
         {
             InitializeComponent();
+
+            //added new variables
         }
     }
 }
